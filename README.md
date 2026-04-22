@@ -5,8 +5,8 @@
   <br>
   Web Developer specializing in making <s>Nice Frontends</s> <strong>Full-Stack Applications</strong>
   <br>
-  Like <strong>Shadcn, Framer-motion, Supabase, Colab</strong>
-  ... React, Vercel, <strong>Next.js</strong>
+  <strong>Shadcn, Framer-motion, Colab</strong>
+  React, Vercel, <strong>Next.js</strong>
   </code>
 </p>
 <p align="center">
